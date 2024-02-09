@@ -3,11 +3,12 @@
 This repository contains Python code for character segmentation in images using OpenCV. Character segmentation is a fundamental step in many optical character recognition (OCR) systems and text extraction tasks.
 
 ## Prerequisites
-Python 3.5.2
-Tensorflow 1.13.1
-OpenCV 4.4.0
-Numpy 1.16.2
-
+<ul>
+<li>Python 3.5.2</li>
+<li>Tensorflow 1.13.1</li>
+<li>OpenCV 4.4.0</li>
+<li>Numpy 1.16.2</li>
+</ul>
 ## Usage
 
 The code provided demonstrates character segmentation using edge detection and connected components analysis.
