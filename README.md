@@ -9,6 +9,7 @@ This repository contains Python code for character segmentation in images using 
 <li>OpenCV 4.4.0</li>
 <li>Numpy 1.16.2</li>
 </ul>
+
 ## Usage
 
 The code provided demonstrates character segmentation using edge detection and connected components analysis.
